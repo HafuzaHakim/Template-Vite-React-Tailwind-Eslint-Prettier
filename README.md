@@ -1,1 +1,1 @@
-# Template-Vite-React-Tailwind-Eslint-Prettier
+This is a template repository
